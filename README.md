@@ -7,10 +7,10 @@ if the id of the book already exists  in the database, if not an api call books/
 
 The project is fully modularized, consisting of:
 
-:app module (Ui, View Models, DI, Navigation, MainApp) 
-:common-resources module (drawables, colors, strings) 
-:data module (Database operations, Repository implementation, Models, Mappers, Api)
-:domain module (Repository, Models, UseCases)
++ :app module (Ui, View Models, DI, Navigation, MainApp) 
++ :common-resources module (drawables, colors, strings) 
++ :data module (Database operations, Repository implementation, Models, Mappers, Api)
++ :domain module (Repository, Models, UseCases)
 
 ## Features
 + Clean Architecture
