@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">common-resources</string>
+    <string name="book_details">Book details</string>
+    <string name="author_label">Author: %1$s</string>
+    <string name="birth_label">Birth: %1$s</string>
+    <string name="death_label">Death: %1$s</string>
+    <string name="subject_label">Subject: %1$s</string>
+    <string name="unknown_author">Unknown author</string>
+</resources>
